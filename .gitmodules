@@ -1,0 +1,4 @@
+[submodule "TOP/custom_enumerable_project"]
+	path = TOP/custom_enumerable_project
+	url = git@github.com:ImMPrada/custom_enumerable_project.git
+	branch = main
