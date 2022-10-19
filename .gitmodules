@@ -2,3 +2,7 @@
 	path = TOP/custom_enumerable_project
 	url = git@github.com:ImMPrada/custom_enumerable_project.git
 	branch = main
+[submodule "PRIVATE/backtracking_recursion"]
+	path = PRIVATE/backtracking_recursion
+	url = git@github.com:microverse-students/backtracking-recursion-ImMPrada.git
+	branch = main
