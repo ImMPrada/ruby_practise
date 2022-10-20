@@ -6,3 +6,6 @@
 	path = PRIVATE/backtracking_recursion
 	url = git@github.com:microverse-students/backtracking-recursion-ImMPrada.git
 	branch = main
+[submodule "TOP/fibonacci"]
+	path = TOP/fibonacci
+	url = git@github.com:ImMPrada/top_fibonacci.git
