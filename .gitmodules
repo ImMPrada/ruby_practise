@@ -9,3 +9,9 @@
 [submodule "TOP/fibonacci"]
 	path = TOP/fibonacci
 	url = git@github.com:ImMPrada/top_fibonacci.git
+[submodule "TOP/top_linked_lists"]
+	path = TOP/top_linked_lists
+	url = git@github.com:ImMPrada/top_linkedLists.git
+[submodule "TOP/binary_search_trees"]
+	path = TOP/binary_search_trees
+	url = git@github.com:ImMPrada/top_binary_search_trees.git
