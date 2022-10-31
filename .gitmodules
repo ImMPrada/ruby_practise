@@ -15,3 +15,6 @@
 [submodule "TOP/binary_search_trees"]
 	path = TOP/binary_search_trees
 	url = git@github.com:ImMPrada/top_binary_search_trees.git
+[submodule "TOP/knights_travails"]
+	path = TOP/knights_travails
+	url = git@github.com:ImMPrada/top_knights_travails.git
