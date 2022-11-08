@@ -18,3 +18,6 @@
 [submodule "TOP/knights_travails"]
 	path = TOP/knights_travails
 	url = git@github.com:ImMPrada/top_knights_travails.git
+[submodule "top/ruby_chess"]
+	path = top/ruby_chess
+	url = git@github.com:ImMPrada/top_ruby_chess.git
